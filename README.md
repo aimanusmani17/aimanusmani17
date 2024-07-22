@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aiman Usmani<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently learning JavaScript,SQL,MongoDB<br>- 📫 Contact me at aimanusmani1700@gmail.com
+👋 Hi, I’m Aiman Usmani<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently learning JavaScript,Typescript,SQL,MongoDB,NodeJs, React<br>- 📫 Contact me at aimanusmani1700@gmail.com
 
 
 ## 🌐 Socials:
