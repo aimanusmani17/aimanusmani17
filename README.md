@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aiman Usmani<br>- 👀 A passionate Web Developer<br>- 🌱 Skilled in JavaScript, TypeScript, SQL, MongoDB, Node.js, and React, with hands-on experience in building dynamic and responsive applications.<br>🌱 Always eager to learn new technologies and improve my craft every day.<br>- 📫 Contact me at aimanusmani1700@gmail.com
+👋 Hi, I’m Aiman Usmani<br> 👀 A passionate Web Developer<br> 🌱 Skilled in JavaScript, TypeScript, SQL, MongoDB, Node.js, and React, with hands-on experience in building dynamic and responsive applications.<br>🌱 Always eager to learn new technologies and improve my craft every day.<br> 📫 Contact me at aimanusmani1700@gmail.com
 
 
 
